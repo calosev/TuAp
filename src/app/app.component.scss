@@ -1,0 +1,50 @@
+.bgMain{
+   width: 100%;
+   height: 1000px;
+   background-image: url('../assets/images/bgmain.jpg');
+}
+
+.login-container{
+    top: 0px;
+    width: 670px;
+    height: 1000px;
+    background: rgba(black, 0.9);
+    opacity: 0.75;
+    float: right;
+}
+
+.center-content{
+    text-align: center;
+}
+
+.logo__img{
+    width: 50%;
+    margin-top: 102px;
+}
+
+.headerLogin{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.content-fields{
+   padding-top: 62px;
+}
+
+.input__fields{
+    border: 0px;
+    margin-top:17px;
+    margin-bottom: 15px;
+    width: 324px;
+    height: 41px;
+    padding-left: 11px;
+}
+
+.btn__custom{
+    background-color: #BD020A;
+    color: #fff;
+    width: 163px;
+    height: 47px;
+    margin-top: 30px;
+}
